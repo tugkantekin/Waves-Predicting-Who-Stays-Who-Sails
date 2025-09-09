@@ -1,4 +1,5 @@
 Workforce Waves: Predicting Who Stays & Who Sails 🌊
+
 📌 Project Overview
 
 This project leverages the IBM HR Analytics Attrition Dataset to explore the factors that influence employee attrition. The analysis is conducted entirely through Exploratory Data Analysis (EDA), using data visualization and statistical summaries to uncover insights into employee engagement, retention, and workforce dynamics.
